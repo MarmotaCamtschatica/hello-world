@@ -1,5 +1,6 @@
-# Hello World!
+# hello-world
 
-## You can now make changes to the file in the editor. You can edit any file, not just README.md.
+Hello World repository for Git tutorial
+==========================================
 
-** Test another merge
+It now includes steps fro GitHub
