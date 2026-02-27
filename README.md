@@ -4,4 +4,4 @@ Hello World repository for Git tutorial
 ==========================================
 
 
-What is it with Alice?
+Step without Alice
