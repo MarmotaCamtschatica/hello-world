@@ -4,4 +4,4 @@ Hello World repository for Git tutorial
 ==========================================
 
 
-Step without Alice
+Create new branch and edit readme.md
